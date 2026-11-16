@@ -4,4 +4,4 @@
 
 - `DreamyVibrantVisuals/` — пак «Dreamy Vibrant Visuals» (default), сабпаки: PBR, No Reflection, Default Reflection.
 
-Чтобы установить: заархивируйте содержимое папки `DreamyVibrantVisuals/` в `.mcpack` (zip) и откройте в игре.
+Сборка: `./build.sh` → `dist/DreamyVibrantVisuals.mcpack` (открыть файл на устройстве — Minecraft импортирует пак).
