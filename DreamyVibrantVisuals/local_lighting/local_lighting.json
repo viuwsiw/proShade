@@ -2,7 +2,7 @@
   "format_version": "1.21.120",
   "minecraft:local_light_settings": {
     "minecraft:torch": { "light_color": [255, 65, 0], "light_type": "point_light" },
-    "minecraft:magma": { "light_color": [155, 65, 10], "light_type": "point_light" },
+    "minecraft:magma": { "light_color": [155, 65, 10], "light_type": "static_light" },
     "minecraft:end_rod": { "light_color": [245, 245, 245], "light_type": "point_light" },
     "minecraft:soul_torch": { "light_color": [0, 210, 250], "light_type": "point_light" },
     "minecraft:soul_lantern": { "light_color": [45, 160, 240], "light_type": "point_light" },
