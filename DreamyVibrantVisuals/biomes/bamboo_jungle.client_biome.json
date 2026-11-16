@@ -1,0 +1,22 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "bamboo_jungle"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "ale:jungle_edge"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#FFFFFF"
+      },
+      "minecraft:sky_color": {
+        "sky_color": "#1F6EFF"
+      },
+  "minecraft:color_grading_identifier": {
+              "color_grading_identifier": "ale:desert_grading"
+            }
+    }
+  }
+}
