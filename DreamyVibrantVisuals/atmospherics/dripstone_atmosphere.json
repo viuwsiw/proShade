@@ -1,16 +1,16 @@
 {
   "format_version": "1.21.40",
   "minecraft:atmosphere_settings": {
-  "description": {
-    "identifier": "ale:dripstone_atmosphere"
-},
- "sky_zenith_color": {
-      "0.0": [ 71,12,12],
-      "1.0": [ 71,12,12 ]
+    "description": {
+      "identifier": "ale:dripstone_atmosphere"
+    },
+    "sky_zenith_color": {
+      "0.0": [55, 16, 16],
+      "1.0": [55, 16, 16]
     },
     "sky_horizon_color": {
-      "0.0": [ 51,24,24 ],
-      "1.0": [ 51,24,24 ]
+      "0.0": [44, 26, 26],
+      "1.0": [44, 26, 26]
     },
     "horizon_blend_stops": {
       "min": 0.3,
