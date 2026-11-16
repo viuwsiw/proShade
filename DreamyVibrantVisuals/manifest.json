@@ -4,7 +4,7 @@
       "description": "Dreamy Visuals was created to compete with the Pack VV from the marketplace. Created By Ale",
       "name": "Dreamy Vibrant Visuals",
       "uuid": "70a7af3c-0c2b-4e49-a9a3-85a3e9a51d82",
-      "version": [1,1,4],
+      "version": [1,1,5],
       "min_engine_version": [1, 20, 0]
      },
     "modules": [
@@ -12,7 +12,7 @@
         "description": "Created by Ale",
         "type": "resources",
         "uuid": "f8db3cb6-b61f-4fc3-9a13-5071d5a4cb5e",
-        "version": [1,1,4]
+        "version": [1,1,5]
       }
     ], 
       "subpacks": 
